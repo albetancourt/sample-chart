@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sample-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-12T14:28:40.7816759-03:00"
+    description: A Helm chart for Kubernetes
+    digest: e9d8612fce3ea88ac5647f3778ea3b180b675db58049b5df0e88cd0237fda875
+    name: sample-chart
+    type: application
+    urls:
+    - https://albetancourt.github.io/sample-chart/sample-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-12T14:28:40.7816759-03:00"
